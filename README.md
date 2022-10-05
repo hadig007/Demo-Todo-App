@@ -4,6 +4,7 @@
 - upgrade backend dengan command ```npm install```
 - Database MongoDB 
   - Nama database: ```todolist```
+- jalankan server dengan command ```node index```
 - Selesai
 
 ## Frontend - Debugging
